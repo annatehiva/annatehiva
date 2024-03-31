@@ -21,7 +21,8 @@
 - Portfolio (self-explanatory)
 
                     
-**First "Hello, World !"** : in R language, during my linguistics master's program (natural-language processing class).
+**First "Hello, World !"** : in R language, during a NLP class (linguistics master's program).
+NLP: natural-language processing
 
 
 **What I'm looking for** :
