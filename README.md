@@ -11,14 +11,14 @@
 
 
 **Works I'm proud of** :
-- [QuantifiedAmy](https://github.com/annatehiva/quantifiedAmy-)
+- [QuantifiedAmy](https://github.com/annatehiva/quantifiedAmy_dataCollector)
+- [QuantifiedAmy 2.0](https://github.com/realalexis/AmyALexLifeSheet)
 - this ReadME
 
 
 **Works in progress** :
-- PolyGlotPro (mobile app / custom dictionary / quiz functionality / collaborative project)
-- QuantifiedAmy2.0 (additional bot-functionality / dataviz)
-- Portfolio (self-explanatory)
+- RandomFit (Spring Boot / Angular / web app)
+
 
                     
 **First "Hello, World !"** : in R language, during a NLP class (linguistics master's program).
@@ -26,13 +26,13 @@ NLP: natural-language processing
 
 
 **What I'm looking for** :
-- "la science infuse" (or the Fountain of Eternal Coding-Knowledge)
+- "la science infuse"
 - an **apprenticeship**
 
 **What I bring to the table** :
 - an insatiable thirst for learning
 - occasional bad jokes
-- Javascript/Python
+- Javascript/Python/Java
 - React/HTML/CSS/Tailwind/Bootstrap
 - PostgreSQL/SQLite
 - bad coffee
